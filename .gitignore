@@ -43,4 +43,4 @@ temp.errors
 *.bzl
 
 # Firmware
-firmware/*
+firmware/
