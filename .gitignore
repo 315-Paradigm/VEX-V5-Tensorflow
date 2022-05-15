@@ -39,3 +39,8 @@ temp.errors
 # Prerequisites
 *.d
 
+# Bazel Build
+*.bzl
+
+# Firmware
+firmware/*
