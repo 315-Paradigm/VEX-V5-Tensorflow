@@ -41,6 +41,3 @@ temp.errors
 
 # Bazel Build
 *.bzl
-
-# Firmware
-firmware/
