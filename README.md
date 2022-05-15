@@ -15,6 +15,9 @@ This option is easier if you either did not make a project yet or have a somewha
 
 To test the project, try to run the program and use the `pros terminal` command and you should see some numbers showing up every 5 seconds.
 
+## Set Up Your Editor
+We strongly recommend using Visual Studio Code with the PROS extension. Search "PROS" and install. After that, you will need to 
+
 ## Next steps
 1. Train your own model, using Keras (for example https://colab.research.google.com/github/AviatorMoser/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb#scrollTo=LI2RmW7r87aW)
 2. Convert your model to TFLite and upload it to Google Drive
